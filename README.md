@@ -1,2 +1,2 @@
-study_log4j
+study_junit
 ===========
